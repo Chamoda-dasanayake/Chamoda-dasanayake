@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm chamoda dasanayake, Electronics and Computer Science undergraduate</h1>
 <h3 align="center">An Enthusiastic Full-Stack Developer with a Passion for AI & Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamoda-dasanayake&label=Profile%20views&color=0e75b6&style=flat" alt="chamoda-dasanayake" /> </p>
-
-- 🔭 I’m currently working on [food-recipe website](https://github.com/Chamoda-dasanayake/food-recipe.git)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamoda-dasanayake&label=Profile%20views&color=0e75b6&style=flat" alt="chamoda-dasanayake" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, React, Spring Boot, and Embedded Systems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chamoda-dasanayake/react-portfolio.git ,https://github.com/Chamoda-dasanayake/Web-Assignment.git ,https://github.com/Chamoda-dasanayake/Employee_management.git ,https://github.com/Chamoda-dasanayake/Pharmacy-Management-System.git](https://github.com/Chamoda-dasanayake/react-portfolio.git ,https://github.com/Chamoda-dasanayake/Web-Assignment.git ,https://github.com/Chamoda-dasanayake/Employee_management.git ,https://github.com/Chamoda-dasanayake/Pharmacy-Management-System.git)
+- 👨‍💻 All of my projects are available at
+- react_Portfolio - https://github.com/Chamoda-dasanayake/react-portfolio.git
+- My Portfolio - https://github.com/Chamoda-dasanayake/Web-Assignment.git
+- Employee Management system - https://github.com/Chamoda-dasanayake/Employee_management.git
+- Pharmacy management system - https://github.com/Chamoda-dasanayake/Pharmacy-Management-System.git
+- Food recipe website - https://github.com/Chamoda-dasanayake/food-recipe.git 
 
 - 💬 Ask me about **C#, Java, HTML/CSS/JS, PHP, MySQL, PIC Microcontrollers**
 
