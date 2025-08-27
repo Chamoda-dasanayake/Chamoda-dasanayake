@@ -6,11 +6,13 @@
 - 🌱 I’m currently learning **Machine Learning, React, Spring Boot, and Embedded Systems**
 
 - 👨‍💻 All of my projects are available at
+  <center>
 - react_Portfolio - https://github.com/Chamoda-dasanayake/react-portfolio.git
 - My Portfolio - https://github.com/Chamoda-dasanayake/Web-Assignment.git
 - Employee Management system - https://github.com/Chamoda-dasanayake/Employee_management.git
 - Pharmacy management system - https://github.com/Chamoda-dasanayake/Pharmacy-Management-System.git
-- Food recipe website - https://github.com/Chamoda-dasanayake/food-recipe.git 
+- Food recipe website - https://github.com/Chamoda-dasanayake/food-recipe.git
+- </center>
 
 - 💬 Ask me about **C#, Java, HTML/CSS/JS, PHP, MySQL, PIC Microcontrollers**
 
