@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm chamoda dasanayake, Electronics and Computer Science undergraduate</h1>
 <h3 align="center">An Enthusiastic Full-Stack Developer with a Passion for AI & Machine Learning</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chamoda-dasanayake&label=Profile%20views&color=0e75b6&style=flat" alt="chamoda-dasanayake" /> </p>
-
 - 🌱 I’m currently learning **Machine Learning, React, Spring Boot, and Embedded Systems**
 
 
