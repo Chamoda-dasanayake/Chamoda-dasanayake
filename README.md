@@ -1,15 +1,118 @@
-<h1 align="center">Hi 👋, I'm chamoda dasanayake, Electronics and Computer Science undergraduate</h1>
-<h3 align="center">An Enthusiastic Full-Stack Developer with a Passion for AI & Machine Learning</h3>
+# Hi, I'm Chamoda Dasanayake👋
 
-- 🌱 I’m currently learning **Machine Learning, React, Spring Boot, and Embedded Systems**
+## 🚀 AI/ML & Full-Stack Developer
 
+I am an Electronics and Computer Science undergraduate at the University of Kelaniya, focused on building **intelligent AI systems, scalable backend services, and real-world full-stack applications**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/chamoda-dasanayake-7258aa291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chamoda-dasanayake-7258aa291" height="30" width="40" /></a>
-<a href="https://fb.com/chamoda dasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamoda dasanayake" height="30" width="40" /></a>
-<a href="https://instagram.com/chamoda_dasanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamoda_dasanayake" height="30" width="40" /></a>
-</p>
+My goal is to become a **professional AI Engineer**, working on production-grade machine learning systems, LLM applications, and scalable software solutions in a top-tier tech company.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 Technical Skills
+
+### 🤖 Artificial Intelligence / Machine Learning
+- Machine Learning (Supervised & Unsupervised Learning)
+- Deep Learning (Artificial Neural Networks basics)
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG) systems
+- Model training, evaluation & optimization
+- AI chatbot development & LLM API integration
+
+### 💻 Programming & Backend Development
+- Python, JavaScript, C#
+- Node.js, Express.js
+- Spring Boot (Java)
+- RESTful API development
+- System design fundamentals
+
+### 🌐 Frontend Development
+- React.js
+- HTML, CSS, JavaScript
+- Responsive UI development
+
+### 🗄️ Databases
+- MongoDB
+- MySQL
+
+### 🛠️ Tools & Platforms
+- Git & GitHub
+- VS Code, IntelliJ IDEA
+- Basic MLOps & deployment concepts
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 AI RAG Chatbot (Flagship Project)
+An AI-powered chatbot system that uses document retrieval and LLM integration to generate intelligent, context-aware responses.
+
+🔗 Live Demo: http://54.153.130.77  
+📌 Highlights:
+- Retrieval-Augmented Generation (RAG)
+- LLM integration for intelligent responses
+- Real-time query handling
+
+---
+
+### 📊 Machine Learning Recommendation System
+A machine learning-based system designed for product recommendation in an e-commerce environment.
+
+📌 Highlights:
+- Data preprocessing & feature engineering
+- Model training & evaluation
+- Real-world business use case
+
+---
+
+### 🧾 NLP Text Summarization Project
+An NLP-based system that summarizes large text inputs into concise outputs using modern ML techniques.
+
+📌 Highlights:
+- Natural Language Processing pipeline
+- Text preprocessing & summarization logic
+- Model evaluation
+
+---
+
+### 🌐 Full-Stack MERN Application
+A complete full-stack web application built using the MERN stack with REST API integration and database management.
+
+📌 Highlights:
+- React frontend
+- Node.js & Express backend
+- MongoDB database integration
+
+---
+
+### ☕ Spring Boot CRUD System
+Enterprise-style backend system implementing CRUD operations with database integration.
+
+📌 Highlights:
+- Java Spring Boot architecture
+- REST API development
+- MySQL integration
+
+---
+
+## 📈 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamoda-dasanayake&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamoda-dasanayake&layout=compact&theme=radical)
+
+---
+
+## 🎯 Career Objective
+
+I am actively seeking opportunities as an **AI/ML Engineer Intern or Software Engineering Intern**, where I can contribute to real-world AI systems, scalable backend solutions, and production-level applications while continuously improving my technical and problem-solving skills.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Chamoda-dasanayake  
+- Location: Sri Lanka 🇱🇰  
+- Email: your-email@example.com  
+
+---
+
+⭐ *"Building intelligent systems that solve real-world problems and scale in production environments."*
