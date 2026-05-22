@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chamoda</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Chamoda Dasanayake</h1>
 
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | RAG & LLM Systems Builder</h3>
 
@@ -13,7 +17,6 @@
 - 🎓 Electronics & Computer Science undergraduate (University of Kelaniya)
 - 🧠 Focused on AI/ML, LLM applications, and intelligent systems
 - 🌐 Full-stack developer (frontend + backend + databases)
-- 🎯 Goal: AI Engineer Intern at a top tech company
 - 🔬 Passionate about building real-world AI products
 
 ---
@@ -44,34 +47,25 @@
 
 ---
 
-### 🧠 Astra RAG Chatbot (Flagship AI System)
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
-</p>
+### 🧠 Astra RAG Chatbot - Multi-Agent Document Intelligence with Voice-Enabled RAG Pipeline
 
 - Retrieval-Augmented Generation (RAG)
 - LLM-powered intelligent responses
 - Real-world AI assistant architecture
 
-🔗 Live Demo: http://54.153.130.77  
-
 ---
 
 ### 💬 MERN Stack Chatbot
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-</p>
 
 - React frontend + Node.js backend
 - Chatbot system integration
 - MongoDB-based persistence
 
+ 🔗 Live Demo: http://54.153.130.77  
+
 ---
 
 ### 🧾 Text Summarization System
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
-</p>
 
 - NLP pipeline
 - Text summarization model
@@ -80,25 +74,10 @@
 ---
 
 ### 📊 Recommendation System
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</p>
 
 - Machine learning recommendation engine
 - Feature engineering & prediction models
 - Real-world e-commerce use case
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamoda-dasanayake&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamoda-dasanayake&layout=compact&theme=radical"/>
-</p>
 
 ---
 
@@ -112,15 +91,16 @@
 
 ## 🎯 Career Objective
 
-Seeking an **AI Engineer Internship** to build production-ready AI systems, LLM applications, and scalable full-stack platforms in a real-world engineering environment.
+Seeking an **AI/ML Engineer Internship** to build production-ready AI systems, LLM applications, and scalable full-stack platforms in a real-world engineering environment.
 
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/Chamoda-dasanayake  
-- Location: Sri Lanka 🇱🇰  
-- Email: your-email@example.com  
+- Location: Kegalle,Sri Lanka 🇱🇰  
+- Email: ridmichamoda@example.com
+- Linkedin : https://www.linkedin.com/in/chamoda-dasanayake-7258aa291/
 
 ---
 
