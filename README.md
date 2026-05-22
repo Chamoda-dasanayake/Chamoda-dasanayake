@@ -9,7 +9,7 @@ Hi 👋, I'm Chamoda Dasanayake
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | RAG & LLM Systems Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Full+Stack+Web+Developer;RAG+%26+LLM+Systems+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Full+Stack+Web+Developer;RAG+%26+LLM+Systems+Builder" />
 </p>
 
 ---
