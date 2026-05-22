@@ -1,96 +1,80 @@
-# Hi, I'm Chamoda Dasanayake👋
-
-## 🚀 AI/ML & Full-Stack Developer
-
-I am an Electronics and Computer Science undergraduate at the University of Kelaniya, focused on building **intelligent AI systems, scalable backend services, and real-world full-stack applications**.
-
-My goal is to become a **professional AI Engineer**, working on production-grade machine learning systems, LLM applications, and scalable software solutions in a top-tier tech company.
+# Hi, I'm Chamoda 👋  
+### 🚀 AI/ML Engineer | Full-Stack Developer | LLM & RAG Systems Builder
 
 ---
 
-## 🧠 Technical Skills
+## ⚡ Tech Stack
 
-### 🤖 Artificial Intelligence / Machine Learning
-- Machine Learning (Supervised & Unsupervised Learning)
-- Deep Learning (Artificial Neural Networks basics)
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG) systems
-- Model training, evaluation & optimization
-- AI chatbot development & LLM API integration
+### 🧠 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-ff69b4?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM%20Apps-blue?style=for-the-badge)
 
-### 💻 Programming & Backend Development
-- Python, JavaScript, C#
-- Node.js, Express.js
-- Spring Boot (Java)
-- RESTful API development
-- System design fundamentals
+### 🌐 Full Stack Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 🌐 Frontend Development
-- React.js
-- HTML, CSS, JavaScript
-- Responsive UI development
-
-### 🗄️ Databases
-- MongoDB
-- MySQL
-
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- VS Code, IntelliJ IDEA
-- Basic MLOps & deployment concepts
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### 🧠 AI RAG Chatbot (Flagship Project)
-An AI-powered chatbot system that uses document retrieval and LLM integration to generate intelligent, context-aware responses.
-
-🔗 Live Demo: http://54.153.130.77  
-📌 Highlights:
-- Retrieval-Augmented Generation (RAG)
-- LLM integration for intelligent responses
-- Real-time query handling
+## 🧠 Featured Projects
 
 ---
 
-### 📊 Machine Learning Recommendation System
-A machine learning-based system designed for product recommendation in an e-commerce environment.
+### 🧠 1. Astra RAG Chatbot (Flagship AI System)
+🚀 **Advanced AI system with Retrieval-Augmented Generation**
 
-📌 Highlights:
-- Data preprocessing & feature engineering
-- Model training & evaluation
-- Real-world business use case
+- LLM-powered intelligent chatbot
+- Document-based knowledge retrieval
+- Real-world AI assistant architecture
+- Deployed live system
+
+🔗 **Live Demo:** http://54.153.130.77  
 
 ---
 
-### 🧾 NLP Text Summarization Project
-An NLP-based system that summarizes large text inputs into concise outputs using modern ML techniques.
+### 💬 2. MERN Stack AI Chatbot
+🌐 Full-stack conversational AI application
 
-📌 Highlights:
+- React frontend + Node.js backend
+- AI chatbot integration
+- REST API architecture
+- MongoDB database system
+
+---
+
+### 🧾 3. Text Summarization System (NLP Project)
+📄 AI-based text compression system
+
 - Natural Language Processing pipeline
-- Text preprocessing & summarization logic
-- Model evaluation
+- Text preprocessing & summarization
+- ML model-based extraction
+- Clean output generation
 
 ---
 
-### 🌐 Full-Stack MERN Application
-A complete full-stack web application built using the MERN stack with REST API integration and database management.
+### 📊 4. Machine Learning Recommendation System
+🎯 E-commerce recommendation engine
 
-📌 Highlights:
-- React frontend
-- Node.js & Express backend
-- MongoDB database integration
+- User behavior analysis
+- Feature engineering & preprocessing
+- ML model training & evaluation
+- Business-driven ML solution
 
 ---
 
-### ☕ Spring Boot CRUD System
-Enterprise-style backend system implementing CRUD operations with database integration.
-
-📌 Highlights:
-- Java Spring Boot architecture
-- REST API development
-- MySQL integration
+### ⚙️ 5. Other Projects
+- Spring Boot CRUD System (Enterprise backend)
+- Visual Programming applications
+- Web development mini projects
 
 ---
 
@@ -104,7 +88,7 @@ Enterprise-style backend system implementing CRUD operations with database integ
 
 ## 🎯 Career Objective
 
-I am actively seeking opportunities as an **AI/ML Engineer Intern or Software Engineering Intern**, where I can contribute to real-world AI systems, scalable backend solutions, and production-level applications while continuously improving my technical and problem-solving skills.
+Aspiring **AI Engineer Intern** focused on building production-ready AI systems, LLM applications, and scalable full-stack platforms in top-tier tech companies.
 
 ---
 
@@ -115,4 +99,4 @@ I am actively seeking opportunities as an **AI/ML Engineer Intern or Software En
 
 ---
 
-⭐ *"Building intelligent systems that solve real-world problems and scale in production environments."*
+⭐ *Building intelligent systems that solve real-world problems using AI and scalable software engineering.*
