@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=header"/>
 </p>
 
-<h1 align="center" style="margin-top: -20px;">
+<h1 align="center" style="margin-top: -10px;">
 Hi 👋, I'm Chamoda Dasanayake
 </h1>
 
