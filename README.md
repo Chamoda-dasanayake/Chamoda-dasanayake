@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chamoda Dasanayake</h1>
+<h1 align="center">Hi 👋, I'm Chamoda</h1>
 
 <h3 align="center">AI/ML Engineer | Full-Stack Developer | RAG & LLM Systems Builder</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Active-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML%20Developer-Python-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-MERN-green?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Full+Stack+Web+Developer;RAG+%26+LLM+Systems+Builder" />
 </p>
 
 ---
@@ -14,15 +12,15 @@
 
 - 🎓 Electronics & Computer Science undergraduate (University of Kelaniya)
 - 🧠 Focused on AI/ML, LLM applications, and intelligent systems
-- 🌐 Full-stack developer with backend + frontend experience
-- 🎯 Goal: AI Engineer Intern at a top-tier tech company
-- 🔬 Passionate about building real-world AI products (not just models)
+- 🌐 Full-stack developer (frontend + backend + databases)
+- 🎯 Goal: AI Engineer Intern at a top tech company
+- 🔬 Passionate about building real-world AI products
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧠 AI / Machine Learning
+### 🧠 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-102230?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -44,48 +42,51 @@
 
 ## 📌 Featured Projects
 
-### 🧠 Astra RAG Chatbot (Flagship Project)
-🚀 Advanced AI system with Retrieval-Augmented Generation (RAG)
+---
 
-- Context-aware AI responses using document retrieval
-- LLM integration for intelligent interaction
-- Real-world deployable architecture
+### 🧠 Astra RAG Chatbot (Flagship AI System)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
+</p>
+
+- Retrieval-Augmented Generation (RAG)
+- LLM-powered intelligent responses
+- Real-world AI assistant architecture
 
 🔗 Live Demo: http://54.153.130.77  
 
 ---
 
 ### 💬 MERN Stack Chatbot
-🌐 Full-stack AI conversational system
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</p>
 
 - React frontend + Node.js backend
-- Chatbot UI with API integration
+- Chatbot system integration
 - MongoDB-based persistence
 
 ---
 
 ### 🧾 Text Summarization System
-📄 NLP-based text processing system
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
+</p>
 
-- Automatic text summarization
-- NLP preprocessing pipeline
-- ML-based content extraction
+- NLP pipeline
+- Text summarization model
+- ML-based processing system
 
 ---
 
 ### 📊 Recommendation System
-🎯 ML-based product recommendation engine
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</p>
 
-- User behavior analysis
-- Feature engineering
-- Model training & evaluation
-
----
-
-### ⚙️ Additional Work
-- Spring Boot CRUD system
-- Web development projects
-- Visual programming applications
+- Machine learning recommendation engine
+- Feature engineering & prediction models
+- Real-world e-commerce use case
 
 ---
 
@@ -101,20 +102,32 @@
 
 ---
 
-## 🎯 Career Objective
+## 🔥 Activity Graph
 
-Seeking an **AI Engineer Internship** where I can apply my skills in machine learning, LLM systems, and full-stack development to build production-ready AI solutions in a real-world environment.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chamoda-dasanayake&theme=react-dark"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Career Objective
+
+Seeking an **AI Engineer Internship** to build production-ready AI systems, LLM applications, and scalable full-stack platforms in a real-world engineering environment.
+
+---
+
+## 📫 Contact
 
 - GitHub: https://github.com/Chamoda-dasanayake  
-- Email: your-email@example.com  
 - Location: Sri Lanka 🇱🇰  
+- Email: your-email@example.com  
 
 ---
 
 <p align="center">
-⭐ “Building intelligent systems that solve real-world problems using AI and scalable engineering.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+</p>
+
+<p align="center">
+⭐ Building intelligent systems that solve real-world problems using AI + scalable engineering
 </p>
